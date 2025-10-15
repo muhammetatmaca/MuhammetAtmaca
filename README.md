@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://ghchart.rshah.org/muhammetatmaca?bg=ffffff&color=00ff00" alt="GitHub Contributions"> <br/>
 </div>
-
+medium : https://medium.com/@muhammetatmaca79
 Projelerim <br/>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
