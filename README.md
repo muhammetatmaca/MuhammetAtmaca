@@ -1,9 +1,10 @@
 ![Business Website](https://github.com/muhammetatmaca/MuhammetAtmaca/raw/main/Software%20Development%20Business%20Website%20in%20Dark%20Purple%20Pink%20Bold%20Tech%20Style.png)
 --- 
+
 <div align="center">
   <img src="https://ghchart.rshah.org/muhammetatmaca?bg=ffffff&color=00ff00" alt="GitHub Contributions"> <br/>
 </div>
-medium : https://medium.com/@muhammetatmaca79
+medium : https://medium.com/@muhammetatmaca79<br/>
 Projelerim <br/>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
